@@ -1,4 +1,4 @@
-## Hi! I'm Larissa Piñeiro
+## Hi! I'm Larissa Piñeiro...
 
 - 🔭 I’m currently working as Front-End Development Intern at ADP Brazil Labs
 - 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript & Angular
